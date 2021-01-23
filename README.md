@@ -33,8 +33,10 @@ I also tinkering with **A.I.** and **machine learning** creating automation proj
 	
 </p>
 
-## Technology
+## Interesting Project
 Here are some of the technologies I have previously worked with.
+
+<img src="https://github-readme-stats.vercel.app/api?username=cbedroid&show_icons=true&theme=tokyonight"  alt="Cbedroid Github Stats" >
 
 | Technology | Project | Description | Status|
 ------| ------|-----|-------|
@@ -44,11 +46,10 @@ VueJs | [Vue-Weather API](https://github.com/cbedroid/vue-weather-app)| Fetch re
   
 **Be sure to checkout my Github for more awesome project I have complete**
 
-## Interesting Project
-<img src="https://github-readme-stats.vercel.app/api?username=cbedroid&show_icons=true&theme=tokyonight"  alt="Cbedroid Github Stats" >
 
 
-## How To Find Me  <img src="https://user-images.githubusercontent.com/54720725/105565664-eeea2f80-5cf5-11eb-9294-b7355a0d10a1.png" alt="Avater with social media link" align="center" height="125" >
+## How To Find Me 
+<img src="https://user-images.githubusercontent.com/54720725/105565664-eeea2f80-5cf5-11eb-9294-b7355a0d10a1.png" alt="Avater with social media link" align="center" height="125" >
 
 <p>
 	<a title="Cornelius" href="https://www.linkedin.com/in/cornelius-brooks/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="linkedIn icon" width="65" height=65"  hspace="10"></a>
