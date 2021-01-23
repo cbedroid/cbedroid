@@ -22,13 +22,13 @@ I also tinkering with **A.I.** and **machine learning** creating automation proj
 </p>
 
 <p>
-	<img title="React" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="postgres" height="40" hspace="10"/>
-	<img title="VueJS" src="https://vuejs.org/images/logo.png" height="40" hspace="10"/>
-	<img title="NodeJS" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="NodeJs" height="40"/>
+	<img title="React" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="postgres" width="40" height="40" hspace="10"/>
+	<img title="VueJS" src="https://vuejs.org/images/logo.png" width="40" height="40" hspace="10"/>
+	<img title="NodeJS" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="NodeJs" width="40" height="40"/>
 	<img title="HTML,CSS,Javascript" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="100" height="60" hspace="5"/>
-        <img title="Bootstrap" src="https://miro.medium.com/max/1024/0*HHrmGxvASDOUhNc-.png" height="40"/>
-	<img title="Sass" src="https://images.iambacon.co.uk/blog/sass.png" alt="mysql" height="40" hspace="10"/>
-	<img title="Jquery" src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png" height="40" hspace="10"/>   
+        <img title="Bootstrap" src="https://miro.medium.com/max/1024/0*HHrmGxvASDOUhNc-.png" width="40" height="40"/>
+	<img title="Sass" src="https://images.iambacon.co.uk/blog/sass.png" alt="mysql" width="40" height="40" hspace="10"/>
+	<img title="Jquery" src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png"  width="40" height="40" hspace="10"/>   
 </p>
 
 
@@ -41,10 +41,10 @@ Here are some of the technologies I have previously worked with.
 | Technology | Project | Description | Status|
 ------| ------|-----|-------|
 Python | [Pydatpiff](https://github.com/cbedroid/pydatpiff) | Stream and download the lastest Hip-Hop and RnB songs from [**Datpiff**](https://www.datpiff.com) | :white_check_mark: 
-Django | [PhotoShare](https://github.com/cbedroid/Photo-Share) |Photo sharing Web App with RESTful API built with **Python** and **Bootstap** | :construction: (in-progress) |
-VueJs | [Vue-Weather API](https://github.com/cbedroid/vue-weather-app)| Fetch realtime weather forecast and condition from any city in the world. | <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"> :rocket: **Demo**</a> |
+Django | [PhotoShare](https://github.com/cbedroid/Photo-Share) | Photo Sharing Web App with RESTful API built with **Python** and **Bootstap** | :construction: (in-progress) |
+VueJs | [Vue-Weather API](https://github.com/cbedroid/vue-weather-app)| Fetch realtime weather forecast and condition from cities across the world. | <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"> :rocket: **Demo**</a> |
   
-__Be sure to checkout my Github for more awesome project I have complete__
+__Be sure to checkout my Github for more awesome projects.__
 
 ---
 
