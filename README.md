@@ -40,9 +40,9 @@ Here are some of the technologies I have previously worked with.
 
 | Technology | Project | Description | Status|
 ------| ------|-----|-------|
-Python | [Pydatpiff](https://github.com/cbedroid/pydatpiff) | Stream and download the lastest Hip-Hop and RnB songs from [**Datpiff**](https://www.datpiff.com) | :white_check_mark: 
-Django | [PhotoShare](https://github.com/cbedroid/Photo-Share) | Photo Sharing Web App with RESTful API built with **Python** and **Bootstap** | :construction: (in-progress) |
-VueJs | [Vue-Weather API](https://github.com/cbedroid/vue-weather-app)| Fetch realtime weather forecast and condition from cities across the world. | <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"> :rocket: **Demo**</a> |
+Python | [**Pydatpiff**](https://github.com/cbedroid/pydatpiff) | An integratable media software service that give users the abilily to stream, play and download the lastest genres of music from Hip-Hop, RnB, Pop, Classical..and more. Pydatpiff can be used as a stand-alone application or it can be easily integrated into existing Web Appication and services  | :white_check_mark: 
+Django | [**PhotoShare**](https://github.com/cbedroid/Photo-Share) | A Django Photo Sharing Web Appication with RESTful API. PhotoShare allows users to easily upload and share their wonderful photos across multiple platforms and social media account. Built with developers in mind, PhotoShare's API lets other sofreware developers seemlessly integrate all of PhotoShare Web functalities right into an existing appication quickly and easily! Want to know more.. [**Check it Out!**](https://github.com/cbedroid/Photo-Share/) | :construction: (in-progress) |
+VueJs | [**Vue-Weather API**](https://github.com/cbedroid/vue-weather-app)| A fully functional Web App that fetches realtime weather data from [weather API](https://openweathermap.org/api) and beautifully display the current forecast and condition for cities across the world. | <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"> :rocket: **Demo**</a> |
   
 __Be sure to checkout my Github for more awesome projects.__
 
