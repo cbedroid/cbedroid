@@ -57,15 +57,15 @@ Here are some of the technologies I have previously worked with.
 Python | [**Pydatpiff**](https://github.com/cbedroid/pydatpiff) | An integratable media software service that give users the abilily to stream, play and download the lastest genres of music from Hip-Hop, RnB, Pop, Classical.. and more. Pydatpiff can be used as a stand-alone application or it can be easily integrated into existing Web Appication and services 
 React-Native  |[**Uber App**](http://github.com/cbedroid/uber-clone)| A clone of [Uber's Passenger App](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) , developed with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/). Uber Clone works on iPhone, Android, and web devices and uses ReduxJS/Toolkit and a centralized store for managing state. This Uber clone uses [Google Map Place](https://developers.google.com/maps/documentation/places/web-service/overview) and [Directional API](https://developers.google.com/maps/documentation/directions/get-directions) to provide users with a precise and real-time ride location. |
 Django | [**PhotoShare**](https://github.com/cbedroid/Photo-Share) | A Django Photo Sharing Web Appication with RESTful API. PhotoShare allows users to easily upload and share their wonderful photos across multiple platforms and social media account. Built with developers in mind, PhotoShare's API lets other softeware developers seemlessly integrate all of PhotoShare Web functalities right into an existing appication quickly and easily! Want to know more.. [**Check it Out!**](https://github.com/cbedroid/Photo-Share/) |
-Html/JS/CSS| [**Landing Page**](https://github.com/cbedroid/LandingPage)| A simple eCommerce landing page built with pure HTML, CSS, and Javascript showcasing new and trending clothing apparel.| <a href="https://cbedroid.github.io/LandingPage/" target="_blank"> **Demo**</a>|
-VueJs | [**Vue-Weather API**](https://github.com/cbedroid/vue-weather-app)| A fully functional Web App that fetches realtime weather data from [weather API](https://openweathermap.org/api) and beautifully display the current forecast and condition for cities across the world.| <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"> :rocket: **Run Demo**</a>  |
+Html/JS/CSS| [**Landing Page**](https://github.com/cbedroid/LandingPage)| A simple eCommerce landing page built with pure HTML, CSS, and Javascript showcasing new and trending clothing apparel.| <a href="https://cbedroid.github.io/LandingPage/" target="_blank" rel="noopener noreferrer"> **Demo**</a>|
+VueJs | [**Vue-Weather API**](https://github.com/cbedroid/vue-weather-app)| A fully functional Web App that fetches realtime weather data from [weather API](https://openweathermap.org/api) and beautifully display the current forecast and condition for cities across the world.| <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"  rel="noopener noreferrer"> :rocket: **Run Demo**</a>  |
   
 __Be sure to checkout my Github for more awesome projects.__
 
 ---
 
 
-## How To Find Me 
+## How To Find Me?
 <img src="https://user-images.githubusercontent.com/54720725/105565664-eeea2f80-5cf5-11eb-9294-b7355a0d10a1.png" alt="Avater with social media link" align="center" width="450" height="250" >
 
 <p>
