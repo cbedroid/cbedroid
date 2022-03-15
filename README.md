@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/54720725/105557784-0cf66680-5cdb-11eb-84c9-0498e80d2ec7.png" width="375" height="250px">
 
-My name is Cornelius. I am a Software Engineer who is passionate about improving the world and solving life's challenging problems through code. Some techologies I enjoy working with are **Python**, **React**, **VueJS**, **NodeJS** and more. 
+I am Cornelius, a Software Engineer with a passion for solving life's challenges through code. A few of the technologies and skills I enjoy working with are **Python**, **Django**, **React**, **VueJS**, **C++** and more.
 
 I also tinkering with **A.I.** and **machine learning** creating automation projects :robot:  using  **auduino** and **raspberryPi** 
 
