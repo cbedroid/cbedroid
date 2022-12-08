@@ -37,7 +37,7 @@ I also tinkering with **A.I.** and **machine learning** creating automation proj
    <p>
 	<img title="HTML,CSS,Javascript" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="100" height="60" hspace="5"/>
  	<img title="Bootstrap" src="https://miro.medium.com/max/1024/0*HHrmGxvASDOUhNc-.png" width="60" height="40"/>
-	<img title="TailwindCss" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="60" height="40"/>
+	<img title="TailwindCss" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="60" height="40" style="background-color:#fff;"/>
 	<img title="Sass" src="https://images.iambacon.co.uk/blog/sass.png" alt="mysql" width="60" height="40" hspace="10"/>
 	<img title="Jquery" src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png"  width="60" height="40" hspace="10"/>   
    </p>
@@ -66,7 +66,7 @@ __Be sure to checkout my Github for more awesome projects.__
 ---
 
 
-## 👀 How To Find Me?
+## 👀 - How To Find Me?
 <img src="https://user-images.githubusercontent.com/54720725/105565664-eeea2f80-5cf5-11eb-9294-b7355a0d10a1.png" alt="Avater with social media link" align="center" width="450" height="250" >
 
 <p>
