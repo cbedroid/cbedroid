@@ -48,28 +48,29 @@ I also tinkering with **A.I.** and **machine learning** creating automation proj
 
 ## Top Projects
 
-Here are some of the technologies I have previously worked with.
+Here are some of the latest projects and technologies I have previously worked with in the past.
 
 
-
-| Technology | Project | Description | Demo  |
--------------| --------|-------------|-------|
-Python | [**Pydatpiff**](https://github.com/cbedroid/pydatpiff) | An integratable media software service that give users the abilily to stream, play and download the lastest genres of music from Hip-Hop, RnB, Pop, Classical.. and more. Pydatpiff can be used as a stand-alone application or it can be easily integrated into existing Web Appication and services 
-React-Native  |[**Uber App**](http://github.com/cbedroid/uber-clone)| A clone of [Uber's Passenger App](https://apps.apple.com/us/app/uber-request-a-ride/id368677368) , developed with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/). Uber Clone works on iPhone, Android, and web devices and uses ReduxJS/Toolkit and a centralized store for managing state. This Uber clone uses [Google Map Place](https://developers.google.com/maps/documentation/places/web-service/overview) and [Directional API](https://developers.google.com/maps/documentation/directions/get-directions) to provide users with a precise and real-time ride location. |
-Django | [**PhotoShare**](https://github.com/cbedroid/Photo-Share) | A Django Photo Sharing Web Appication with RESTful API. PhotoShare allows users to easily upload and share their wonderful photos across multiple platforms and social media account. Built with developers in mind, PhotoShare's API lets other softeware developers seemlessly integrate all of PhotoShare Web functalities right into an existing appication quickly and easily! Want to know more.. [**Check it Out!**](https://github.com/cbedroid/Photo-Share/) |
-Html/JS/CSS| [**Landing Page**](https://github.com/cbedroid/LandingPage)| A simple eCommerce landing page built with pure HTML, CSS, and Javascript showcasing new and trending clothing apparel.| <a href="https://cbedroid.github.io/LandingPage/" target="_blank" rel="noopener noreferrer"> **Demo**</a>|
-VueJs | [**Vue-Weather API**](https://github.com/cbedroid/vue-weather-app)| A fully functional Web App that fetches realtime weather data from [weather API](https://openweathermap.org/api) and beautifully display the current forecast and condition for cities across the world.| <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"  rel="noopener noreferrer"> :rocket: **Run Demo**</a>  |
+| Top Project     | Description   |
+| ----------------|---------------|
+| [**Pydatpiff**](https://github.com/cbedroid/pydatpiff) | Pydatpiff is an integrated media software service that lets users stream, play, and download new genres of music from Hip-Hop, RnB, Pop, Classical ... and more. It can be used as a standalone application or easily integrated with existing websites.
+| [**Uber App**](http://github.com/cbedroid/uber-clone)   | Developed with [Expo](https://docs.expo.dev/) and [React Native](https://reactnative.dev/), [Uber](https://apps.apple.com/us/app/uber-request-a-ride/id368677368)Clone Passenger App supports iPhone, Android, and web devices and uses ReduxJS/Toolkit and a centralized state store. With this Uber clone, users can track their ride location in real time using Google Map Place and [Directional API](https://developers.google.com/maps/documentation/directions/get-directions). |
+| [**PhotoShare**](https://github.com/cbedroid/Photo-Share) | PhotoShare is a Django-based and RESTful API application that allows users to easily share and upload their wonderful photos across many platforms and social networks.A developer-friendly API, PhotoShare's API enables third-party developers to seamlessly integrate all of PhotoShare's Web functionality into existing applications! Want to know more.. [**Check it Out!**](https://github.com/cbedroid/Photo-Share/) |
+| [**Vue-Weather API**](https://github.com/cbedroid/vue-weather-app)   |  A fully functional Web App that shows the current weather forecasts and conditions for cities around the globe in real-time using [OpenWeatherMap weather API](https://openweathermap.org/api).  <a href="https://cbedroid.github.io/vue-weather-app/" target="_blank"  rel="noopener noreferrer"> :rocket: **Run Demo**</a>  |
+| [**Landing Page**](https://github.com/cbedroid/LandingPage)| Using pure HTML, CSS, and Javascript, this eCommerce landing page showcases new and trending apparel. <a href="https://cbedroid.github.io/LandingPage/" target="_blank" rel="noopener noreferrer"> :rocket: **Demo**</a>|
   
+---
+
 __Be sure to checkout my Github for more awesome projects.__
 
 ---
 
 
-## How To Find Me?
+## 👀 How To Find Me?
 <img src="https://user-images.githubusercontent.com/54720725/105565664-eeea2f80-5cf5-11eb-9294-b7355a0d10a1.png" alt="Avater with social media link" align="center" width="450" height="250" >
 
 <p>
-	<a title="Cornelius" href="https://www.linkedin.com/in/cornelius-brooks/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="linkedIn icon" width="65" height=65"  hspace="10"></a>
+<a title="Cornelius" href="https://www.linkedin.com/in/cornelius-brooks/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="linkedIn icon" width="65" height=65"  hspace="10"></a>
 	<a title="@cbedroid" href="https://www.twitter.com/cbedroid" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" alt="twitter icon" width="65" height="65"  hspace="10"></a>	
 	 <a title="Cornelius" href="https://www.youtube.com/channel/UCGPgoafyqSeEbYLkjvpFlDA" target="_blank"> <img src="https://sdpmanagement.com/images/YouTube.png" alt="linkedIn icon" width="65" height=65"  hspace="10"></a>
 
