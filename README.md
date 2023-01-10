@@ -11,23 +11,23 @@ I also tinkering with **A.I.** and **machine learning** creating automation proj
 <div style="display:flex;justify-content:space-between; margin:20px 0">
 	<img title="Ubuntu"   src="https://i.imgur.com/wiYdaql.png" alt="ubuntu"  width="40" height="40" hspace="10"/>
         <img title="Bash"     src="https://i.imgur.com/8ChUMCl.png" alt="bash" width="40" height="40" hspace="10"/>
+        <img title="Git"      src="https://miro.medium.com/max/3200/1*8fPMdk2Cd5iJQ7dI7jXCbA.jpeg" alt="git"  width="40" height="40" hspace="15"/>
         <img title="C Languange" src="https://ih1.redbubble.net/image.841964175.7438/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="60" height="40"/>
         <img title="Python"  src="https://i.imgur.com/kYqNRW2.png" width="50" height="40"/>
         <img title="Django"  src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" width="60" height="40" hspace="5"/>
+        <img title="Flask"    src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" width="60" height="40" hspace="10"/>
         <img title="React" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt="React" width="60" height="40" hspace="10"/>
 	<img title="React Native" src="https://effectussoftware.com/blog/wp-content/uploads/2020/03/react-native_large.jpg" alt="React Native" width="60" height="40" hspace="10"/>
 	<img title="VueJS" src="https://vuejs.org/images/logo.png" width="40" height="40" hspace="10"/>
 	<img title="NodeJS" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="NodeJs" width="40" height="40"/>
-	<img title="Flask"    src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" width="60" height="40" hspace="10"/>
-        <img title="Docker"   src="https://i.imgur.com/O1dfbU2.png" alt="docker" width="40" height="40"/>
+	<img title="Docker"   src="https://i.imgur.com/O1dfbU2.png" alt="docker" width="40" height="40"/>
         <img title="Postgres" src="https://www.fullstackpython.com/img/logos/postgresql.jpg" alt="postgres" width="60" height="40" hspace="10"/>
         <img title="Mysql"    src="https://i.imgur.com/DG1ai5x.png" alt="mysql"  width="40" height="40" hspace="10"/>
-	<img title="Git"      src="https://miro.medium.com/max/3200/1*8fPMdk2Cd5iJQ7dI7jXCbA.jpeg" alt="git"  width="40" height="40" hspace="15"/>
 	<img title="HTML,CSS,Javascript" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width="100" height="60" hspace="5"/>
- 	<img title="Bootstrap" src="https://miro.medium.com/max/1024/0*HHrmGxvASDOUhNc-.png" width="60" height="40"/>
+ 	<img title="Jquery" src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png"  width="60" height="40" hspace="10"/>   
+        <img title="Bootstrap" src="https://miro.medium.com/max/1024/0*HHrmGxvASDOUhNc-.png" width="60" height="40"/>
 	<img title="TailwindCss" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="60" height="40" style="background-color:#fff;"/>
 	<img title="Sass" src="https://images.iambacon.co.uk/blog/sass.png" alt="mysql" width="60" height="40" hspace="10"/>
-	<img title="Jquery" src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png"  width="60" height="40" hspace="10"/>   
 </div>
 
 <div>
